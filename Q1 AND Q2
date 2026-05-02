@@ -5,3 +5,20 @@ Enter "help" below or click "Help" above for more information.
 Enter your namePeter C W Wurie
 Enter item to be purchasedPhone
 Welcome, Peter C W Wurie! You have purchased a Phone.
+
+Enter first test score: 55
+Enter second test score: 90
+Enter third test score: 75
+Scores Entered:
+Score 1: 55.0
+Score 2: 90.0
+Score 3: 75.0
+Average Score: 73.33333333333333
+
+
+
+========================================================= RESTART: C:/Users/kemoh/Documents/QUESTIOM 2.py =========================================================
+Enter first test score: 
+========================================================= RESTART: C:/Users/kemoh/Documents/QUESTIOM 2.py =========================================================
+Enter first test score: p
+Error: Please enter valid numeric values.
